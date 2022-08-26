@@ -17,23 +17,9 @@ for (let i = 0; i < btn.length; i++) {
             }
         }
     })
-    var vlue = value.innerHTML;
-    function char_count(vlue) {
-        var letter_Count = 0;
-        for (var position = 0; position < vlue.length; position++) {
-                letter_Count += 1;
-                }
-        return letter_Count;
-    }
-     let count = char_count(vlue);
-
-     if(count > 14){
-        
-     }
-
-     
-
 }
+
+
 
 toggleBtn.onclick = function () {
     body.classList.toggle("dark");
