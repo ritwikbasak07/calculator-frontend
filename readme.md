@@ -1,1 +1,1 @@
-link : https://ritwikbasak07.github.io/calculator-frontend/
+[app link](https://ritwikbasak07.github.io/calculator-frontend/)
